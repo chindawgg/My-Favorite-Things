@@ -1,0 +1,29 @@
+<h1>These are my favorite things</h1>
+<h2>My Movies</h2>
+<ul>
+<li>Paid In Full</li>
+<li>City of God</li>
+<li>Blow</li>
+</ul>
+<ol>
+<li>Blow - <a href="https://www.youtube.com/watch?v=Oqp9odhjciM">https://www.youtube.com/watch?v=Oqp9odhjciM</a></li>
+<li>Paid in Full - <a href="https://www.youtube.com/watch?v=d9vC9gUnTTc">https://www.youtube.com/watch?v=d9vC9gUnTTc</a></li>
+<li>City of God - <a href="https://www.youtube.com/watch?v=dcUOO4Itgmw">https://www.youtube.com/watch?v=dcUOO4Itgmw</a></li>
+</ol>
+<h2>My Foods</h2>
+<ul>
+<li>Salmon</li>
+<li>Alfredo</li>
+<li>Shrimp</li>
+</ul>
+<h2>My Shows</h2>
+<ul>
+<li>Blindspot</li>
+<li>Enemy Within</li>
+<li>Game of Thrones</li>
+</ul>
+<h2>My Music</h2>
+<ul>
+<li>Rap</li>
+<li>Hip-Hop</li>
+</ul>
